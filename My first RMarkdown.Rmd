@@ -28,7 +28,7 @@ plot(pressure)
 ```
 
 ### My personal addition
-Here new information
+Here new information [EPICA website](www.epica.ai)
 ```{r Personal, echo=FALSE}
 print("Hello World! - Juan")
 ```
