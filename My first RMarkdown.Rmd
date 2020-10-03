@@ -29,7 +29,7 @@ plot(pressure)
 
 ### My personal addition
 Here new information
-```{r}
+```{r Personal, echo=FALSE}
 print("Hello World! - Juan")
 ```
 
